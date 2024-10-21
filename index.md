@@ -11,7 +11,7 @@
 邮编：510000</b></p >
     </td>
     <td width="25%">
-      <img src="5.5.jpg"width="100%">      
+      <img src="1021-2.jpg"width="100%">      
     </td>
   </tr>
 </table>
@@ -19,11 +19,17 @@
 
 ### 個人興趣
 - Travelling
+ </td>
+    <td width="25%">
+      <img src="1021-3.jpg"width="30%">      
+    </td>
+  </tr>
+</table>
 - eating
 - coffee
  </td>
     <td width="25%">
-      <img src="1014.jpg"width="30%">      
+      <img src="1021-1.jpg"width="30%">      
     </td>
   </tr>
 </table>
