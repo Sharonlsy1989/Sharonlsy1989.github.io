@@ -21,7 +21,7 @@
 - Travelling
  </td>
     <td width="25%">
-     <img src="1021-3.jpg"width="20%">      
+    <img src="/1021-2.jpg" width="100%">      
     </td>
   </tr>
 </table>
