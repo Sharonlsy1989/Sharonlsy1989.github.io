@@ -24,14 +24,14 @@
      <img src="/1021-3.jpg" width="20%">
     </td>
   </tr>
-</table>
+
 - eating
 - coffee
  <tr>
     <td width="25%">
-     <img src="1021-1.jpg" width="20%">      
+     <img src="1021-1.jpg"width="20%">      
     </td>
   </tr>
-</table>
+
 
 
