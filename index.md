@@ -11,7 +11,7 @@
 邮编：510000</b></p >
     </td>
     <td width="25%">
-     <img src="/1021-2.jpg"width="80%">  
+     <img src="/1021-1.jpg.jpg" width="100%">
     </td>
   </tr>
 </table>
