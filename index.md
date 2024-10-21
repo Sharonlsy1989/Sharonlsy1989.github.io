@@ -21,13 +21,13 @@
 - Travelling
  <tr>
      <td width="25%">
-     <img src="/1021-2.jpg" width="100%">
+     <img src="/1021-3.jpg" width="20%">
     </td>
   </tr>
 </table>
 - eating
 - coffee
- </td>
+ <tr>
     <td width="25%">
      <img src="1021-1.jpg"width="20%">      
     </td>
