@@ -21,7 +21,7 @@
 - Travelling
  </td>
     <td width="25%">
-     <img src="1021-1.jpg"width="20%">      
+     <img src="1021-3.jpg"width="20%">      
     </td>
   </tr>
 </table>
@@ -29,7 +29,7 @@
 - coffee
  </td>
     <td width="25%">
-     <img src="1021-3.jpg"width="20%">      
+     <img src="1021-1.jpg"width="20%">      
     </td>
   </tr>
 </table>
